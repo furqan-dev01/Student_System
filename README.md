@@ -15,7 +15,7 @@ This system manages student information, including registration, grades, and pro
 - Standard Libraries (stdio.h, stdlib.h, etc.)
 
 ## How to Run
-1. Make sure you have a C compiler installed (like GCC).
+1. Make sure you have a C++ compiler installed (like visual studio).
 2. Download or clone the repository.
 3. Open the project files in your favorite IDE or a text editor.
 4. Compile the code:
